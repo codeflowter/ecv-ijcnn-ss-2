@@ -12,23 +12,23 @@ It also aims to stimulate new developments to address research gaps such as deep
 
 Potential topics include, but are not limited to, the following:
 
-•	Image segmentation 
-•	Data stream clustering
-•	Feature selection
-•	Object detection and recognition
-•	Image description generation
-•	Visual question generation
-•	Visual saliency detection
-•	Image classification
-•	Image retrieval 
-•	Human or object attribute prediction
-•	Facial expression recognition and age estimation
-•	Human action recognition
-•	Bioinformatics (e.g. skin cancer, heart disease, and brain tumour classification etc.)
-•	Machine translation, language generation and speech recognition
-•	Evolving deep neural network generation for diverse computer vision, image processing and signal processing problems
-•	Hybrid clustering techniques (e.g. clustering models combined with evolutionary algorithms)
-•	Optimal topology and hyper-parameter identification for classification/regression and ensemble learning models
+-	Image segmentation 
+-	Data stream clustering
+-	Feature selection
+-	Object detection and recognition
+-	Image description generation
+-	Visual question generation
+-	Visual saliency detection
+-	Image classification
+-	Image retrieval 
+-	Human or object attribute prediction
+-	Facial expression recognition and age estimation
+-	Human action recognition
+-	Bioinformatics (e.g. skin cancer, heart disease, and brain tumour classification etc.)
+-	Machine translation, language generation and speech recognition
+-	Evolving deep neural network generation for diverse computer vision, image processing and signal processing problems
+-	Hybrid clustering techniques (e.g. clustering models combined with evolutionary algorithms)
+-	Optimal topology and hyper-parameter identification for classification/regression and ensemble learning models
 
 # Important Dates
 
@@ -40,10 +40,8 @@ Potential topics include, but are not limited to, the following:
 
 # Organizers
 
-Bullet list:
-
-Dr Li Zhang, Royal Holloway, University of London, UK
-Prof Chee Peng Lim, Deakin University, Australia
-Prof Jungong Han, Aberystwyth University, UK
-Dr Guiguang Ding, Tsinghua University, China
+- Dr Li Zhang, Royal Holloway, University of London, UK
+- Prof Chee Peng Lim, Deakin University, Australia
+- Prof Jungong Han, Aberystwyth University, UK
+- Dr Guiguang Ding, Tsinghua University, China
 
