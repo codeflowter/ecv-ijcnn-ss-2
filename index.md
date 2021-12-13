@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](https://wcci2022.org/wp-content/uploads/2020/07/WCCI2022-padua-logo.png)
 
 # Aim and Scope
 
