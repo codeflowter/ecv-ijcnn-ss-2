@@ -46,4 +46,3 @@ Potential topics include, but are not limited to, the following:
 - Prof Chee Peng Lim, Deakin University, Australia
 - Prof Jungong Han, Aberystwyth University, UK
 - Dr Guiguang Ding, Tsinghua University, China
-
