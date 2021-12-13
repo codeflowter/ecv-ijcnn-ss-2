@@ -32,11 +32,9 @@ Potential topics include, but are not limited to, the following:
 
 # Important Dates
 
-Bullet list:
-
-•	Paper submission: January 31, 2022 (11:59 PM AoE)
-•	Notification of acceptance: April 26, 2022
-•	Final paper submission: May 23, 2022
+-	Paper submission: January 31, 2022 (11:59 PM AoE)
+-	Notification of acceptance: April 26, 2022
+-	Final paper submission: May 23, 2022
 
 [Submission portal] (https://wcci2022.org/submission/)
 
