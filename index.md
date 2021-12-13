@@ -36,7 +36,7 @@ Potential topics include, but are not limited to, the following:
 -	Notification of acceptance: April 26, 2022
 -	Final paper submission: May 23, 2022
 
-[Submission portal] (https://wcci2022.org/submission/)
+[Submission portal](https://wcci2022.org/submission/)
 
 # Organizers
 
