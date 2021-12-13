@@ -1,6 +1,6 @@
 ![alt text](https://wcci2022.org/wp-content/uploads/2020/07/WCCI2022-padua-logo.png)
 
-# Aim and Scope
+## Aim and Scope
 
 Evolutionary algorithms have demonstrated superior global search capabilities, and have been applied to diverse real-life single, multi, and many-objective optimization problems. Examples include the use of evolutionary algorithms for optimal parameter identification and discriminative feature selection pertaining to diverse classification and regression models as well as hybrid evolutionary and clustering algorithms for image segmentation and visual saliency detection.
 
@@ -10,7 +10,7 @@ This special session aims to stimulate research pertaining to not only feature s
 
 It also aims to stimulate new developments to address research gaps such as deep network generation with residual and dense connectivity as well as hybrid cascaded architectures to tackle vanishing gradients and complex computer vision tasks such as object detection, image description and visual question generation.
 
-# Topics
+## Topics
 
 Potential topics include, but are not limited to, the following:
 
@@ -32,7 +32,7 @@ Potential topics include, but are not limited to, the following:
 -	Hybrid clustering techniques (e.g. clustering models combined with evolutionary algorithms)
 -	Optimal topology and hyper-parameter identification for classification/regression and ensemble learning models
 
-# Important Dates
+## Important Dates
 
 -	Paper submission: January 31, 2022 (11:59 PM AoE)
 -	Notification of acceptance: April 26, 2022
@@ -40,7 +40,7 @@ Potential topics include, but are not limited to, the following:
 
 [Submission portal](https://wcci2022.org/submission/)
 
-# Organizers
+## Organizers
 
 - Dr Li Zhang, Royal Holloway, University of London, UK
 - Prof Chee Peng Lim, Deakin University, Australia
