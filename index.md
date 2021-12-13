@@ -1,3 +1,5 @@
+![alt text](http://url/to/img.png)
+
 # Aim and Scope
 
 Evolutionary algorithms have demonstrated superior global search capabilities, and have been applied to diverse real-life single, multi, and many-objective optimization problems. Examples include the use of evolutionary algorithms for optimal parameter identification and discriminative feature selection pertaining to diverse classification and regression models as well as hybrid evolutionary and clustering algorithms for image segmentation and visual saliency detection.
